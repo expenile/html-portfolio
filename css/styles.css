@@ -1,0 +1,40 @@
+/*********** TAG SELECTORS**********/
+
+body{
+    background-color: #A5D7E8;
+}
+
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    border-color:grey ;
+    border-width: 5px;
+    width: 5%;
+}
+h3 {
+    color: #3795BD;
+}
+h1{
+    color: #0B2447;
+}
+
+/********** CLASS SELECTORS*************/
+/*  .clasname(created inside main link of image){                            (overrides tag selectors)
+    background-color="anycolor"
+}*/
+
+.circular{
+    border-radius: 100%;
+}
+
+
+
+/********** ID SELECTORS*************/
+/*   #id name(header){                                                        (override tag selectors)
+    color="anycolor"
+}
+*/
+
+
+
+
